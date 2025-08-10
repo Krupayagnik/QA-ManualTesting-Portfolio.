@@ -20,3 +20,4 @@ Seeking to leverage technical skills, project experience,
 
 ## Contact
 91+ 9081112664
+mail id : krupaliyagnik7@gmail.com
