@@ -2,12 +2,16 @@
 Welcome! 👋
 This repository contains my work and documents from my internship and self-practice as a QA Manual Tester.
 
-## Contents That I've Mentioned:
+## Contents That I'm Working on Mentioned below:
 
+- Test Title
 - Test Plan
-- Test Cases
-- Bug Reports
+- Descripiton
+- Expected Resut
+- Actual result
+- Test case Status
 - Test Summary
+ 
 
 ## About Me
 
